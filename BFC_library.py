@@ -6,17 +6,6 @@ from scipy.stats import linregress
 from tqdm import tqdm
 
 
-
-
-
-
-
-
-
-
-
-
-
 def check_invert(arr):                 # a function that checks if an AP is 'inverted', defined as the functions outline. 
 
     #  a spike waveform array          # this is optional, but will make APs all look the 'same' direction which can be useful for finding spike-width
