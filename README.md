@@ -13,3 +13,5 @@ Running Script:
 3) Based on spike-timing data and the dat file, a bisect function is used to find and extract every single detected unit in the file; these are stored in arrays
        a) bisect algorithm is VERY fast compared to a normal or brute-force search
 5) These waveforms can be averaged and then compare to assess for phenotype (e.g. narrow vs broad)
+
+TO DO: add links to sample data and input files. (these can be rather large; e.g. 30min of recording 128 data channels at 30kHz is rouhgly 25-30GB)
